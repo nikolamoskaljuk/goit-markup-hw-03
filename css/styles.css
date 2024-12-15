@@ -42,7 +42,9 @@ a {
 }
 
 /* xxxxxxxxxx HEADER xxxxxxxxxx */
-
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
 .page-header .container {
   justify-content: space-between;
   display: flex;
