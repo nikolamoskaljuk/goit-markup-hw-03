@@ -260,10 +260,12 @@ button {
 .portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
+  justify-content: center;
 }
 .portfolio-list {
  display: flex;
  flex-wrap: wrap;
+ justify-content: center;
  gap: 48px 24px;
 }
 .portfolio-item {
