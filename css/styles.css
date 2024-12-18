@@ -262,7 +262,8 @@ button {
 }
 .team-dis {
     border-top: none;
-    padding: 32px 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 /* xxxxxxxxxx OUR PORTFOLIO xxxxxxxxx */
 .portfolio {
